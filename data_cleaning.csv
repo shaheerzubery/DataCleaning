@@ -1,0 +1,11 @@
+serial_no,Temperature,humidity,windy
+1,20,5,11
+2,14,4,22
+3,11,7,43
+4,NaN,11,15
+5,4,22,NaN
+6,19,NaN,25
+7,22,NaN,18
+8,nan,11,nan
+9,,NaN,
+10,10,39,15
